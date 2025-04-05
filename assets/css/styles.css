@@ -142,7 +142,7 @@ nav ul li a:hover {
     display: inline-block;
     padding: 8px 12px;
     background: #E74C3C;
-    text-color: black;
+    text-color: #222;
     text-decoration: none;
     border-radius: 5px;
     margin-top: 10px;
